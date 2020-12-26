@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "tn.isi.soa.blog"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "tn.isi.soa.blog",
+    "packageFolder": "tn/isi/soa/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWU3N2I3NDY1ZDA4ZWZhOWFjZTc5YmE4ODgwMGNmYmM5NzNkMGVjNjM0NWQ1M2JmYzYxNjY1NzA1YmY4Yzc3MjM4YjU0NzI0NjI3YjBjNjQ5MDI2ZGVmODhhZDA4ZjU3MmFhYmExZTgyY2Q1OGM3MTBhYjk5YzM2ZjkzZTM4Njc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "materia",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1608916337262,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "lastLiquibaseTimestamp": 1608917462000
+  }
+}
